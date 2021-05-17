@@ -8,8 +8,13 @@ html{
   background-color: rgb(82, 151, 154);
   text-align: center;
   padding: 50px;
+  font-family:'Gill Sans MT', sans-serif;
 }
 
 ul{
   list-style: none;
+}
+
+li{
+  line-height: 30px;
 }
